@@ -18,7 +18,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Frot-end Developer (Jr)** \
 [**Begrowth**](https://begrowth.com.br/) • Contract \
-Linguagens & Tecnologias: `Html`, `Css`, `React`\
+Linguagens & Tecnologias: `Html`, `JavaScript`, `Css`, `React`, `Go`, `TypeScript`\
 Projetos em destaque: [UTUA](https://utua.com.br/), [Assiny](https://assiny.com.br/)
 <br/>
 
