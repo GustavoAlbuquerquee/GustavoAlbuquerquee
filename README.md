@@ -16,8 +16,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/user-attachments/assets/8e64b8d8-b279-4e93-b78c-6c6b6d283418"/>](https://rocketseat.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Begrowth**](https://begrowth.com.br/) • Contract \
+**Dev Frot-end (Estagiário)** \
+[**Begrowth**](https://begrowth.com.br/) •  \
 Linguagens & Tecnologias: `Html`, `JavaScript`, `Css`, `React`, `Go`, `TypeScript`\
 Projetos em destaque: [UTUA](https://utua.com.br/), [Assiny](https://assiny.com.br/)
 <br/>
