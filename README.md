@@ -12,10 +12,10 @@ Seja bem-vindo ao meu perfil! Sou um **Desenvolvedor Front-end** apaixonado por 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 <br/>
 
-[<img align="left" height="94px" width="94px"  alt="NL_logo" src="https://github.com/user-attachments/assets/e5bbccfe-de60-43c2-9d51-e9a3ea605b4c"/>](https://site-da-nextletter.com)
+[<img align="left" height="94px" width="94px" alt="NextLetter" src="https://placehold.co/94x94/202020/ffffff?text=Logo+Aqui"/>](https://site-da-nextletter.com)
 
 **Dev Front-end** \
-[**NextLetter**](https://nextletter.com.br/) • \
+[**NextLetter**](https://site-da-nextletter.com) • \
 Linguagens & Tecnologias: `React`, `TypeScript`, `HTML`, `CSS`, `N8N`\
 Descrição: Desenvolvimento de interfaces modernas e responsivas focadas em experiência do usuário, além da criação e manutenção de automações de fluxo de trabalho utilizando N8N.
 <br/><br/>
@@ -33,9 +33,7 @@ Projetos em destaque: [UTUA](https://utua.com.br/), [Assiny](https://assiny.com.
 ###
 
 <div align="center">
-    <a href="https://github.com/GustavoAlbuquerquee">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoAlbuquerquee&layout=compact&theme=dark" height="151" alt="languages graph" />
-    </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoAlbuquerque&theme=dark" alt="languages graph" />
 </div>
 
 ###
@@ -50,6 +48,8 @@ Projetos em destaque: [UTUA](https://utua.com.br/), [Assiny](https://assiny.com.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/n8n/FF6E5C" height="30" alt="n8n logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
