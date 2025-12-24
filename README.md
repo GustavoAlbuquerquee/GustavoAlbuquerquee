@@ -30,19 +30,7 @@ Projetos em destaque: [UTUA](https://utua.com.br/), [Assiny](https://assiny.com.
 
 ## 🛠️ Tecnologias e ferramentas que uso
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlbuquerquee&layout=compact&theme=dark&langs_count=6&cache_seconds=1800"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GustavoAlbuquerquee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlbuquerque)](https://github.com/GustavoAlbuquerque/github-readme-stats)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
