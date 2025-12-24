@@ -33,7 +33,9 @@ Projetos em destaque: [UTUA](https://utua.com.br/), [Assiny](https://assiny.com.
 ###
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoAlbuquerque&theme=dark" alt="languages graph" />
+  <a href="https://github.com/GustavoAlbuquerque">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoAlbuquerque&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ###
