@@ -5,22 +5,22 @@ Seja bem-vindo ao meu perfil! Sou um **Desenvolvedor Front-end** apaixonado por 
 ## 🚀 Sobre mim
 - 💡 **Apaixonado por**: Transformar ideias em soluções inovadoras e criar interfaces incríveis.
 - 🎓 **Sempre aprendendo**: Estou sempre em busca de novos desafios para expandir meu conhecimento, seja em desenvolvimento, design ou até mesmo empreendedorismo.
-- 💬 **Aqui para ajudar**: Se tens alguma dúvida ou precisas de ajuda, é só chamar!
+- 💬 **Aqui para ajudar**: Se você tem alguma dúvida ou precisa de ajuda, é só chamar!
 
 ### 👨‍💻 Experiência de trabalho
 
-Na visão geral abaixo encontrarás a minha experiência de trabalho mais recente:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="NextLetter" src="https://placehold.co/94x94/202020/ffffff?text=Logo"/>](https://site-da-nextletter.com)
+[<img align="left" height="94px" width="94px"  alt="NL_logo" src="https://github.com/user-attachments/assets/e5bbccfe-de60-43c2-9d51-e9a3ea605b4c"/>](https://site-da-nextletter.com)
 
 **Dev Front-end** \
-[**NextLetter**](https://site-da-nextletter.com) • \
-Linguagens & Tecnologias: `React`, `TypeScript`, `...`\
-Descrição: *Escreve aqui um breve resumo do que estás a fazer na NextLetter.*
+[**NextLetter**](https://nextletter.com.br/) • \
+Linguagens & Tecnologias: `React`, `TypeScript`, `HTML`, `CSS`, `N8N`\
+Descrição: Desenvolvimento de interfaces modernas e responsivas focadas em experiência do usuário, além da criação e manutenção de automações de fluxo de trabalho utilizando N8N.
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/user-attachments/assets/8e64b8d8-b279-4e93-b78c-6c6b6d283418"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/user-attachments/assets/8e64b8d8-b279-4e93-b78c-6c6b6d283418"/>](https://begrowth.com.br/)
 
 **Dev Front-end (Estagiário)** \
 [**Begrowth**](https://begrowth.com.br/) • \
@@ -46,6 +46,8 @@ Projetos em destaque: [UTUA](https://utua.com.br/), [Assiny](https://assiny.com.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
