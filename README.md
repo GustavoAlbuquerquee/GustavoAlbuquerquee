@@ -12,10 +12,10 @@ Seja bem-vindo ao meu perfil! Sou um **Desenvolvedor Front-end** apaixonado por 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="NextLetter" src="https://placehold.co/94x94/202020/ffffff?text=Logo+Aqui"/>](https://site-da-nextletter.com)
+[<img align="left" height="94px" width="94px" alt="NextLetter" src="https://nextletter.com.br/logo-icon.jpg"/>](https://nextletter.com.br/)
 
 **Dev Front-end** \
-[**NextLetter**](https://site-da-nextletter.com) • \
+[**NextLetter**](https://nextletter.com.br/) • \
 Linguagens & Tecnologias: `React`, `TypeScript`, `HTML`, `CSS`, `N8N` \
 Descrição: Desenvolvimento de interfaces modernas e responsivas focadas em experiência do usuário, além da criação e manutenção de automações de fluxo de trabalho utilizando N8N.
 <br/><br/>
