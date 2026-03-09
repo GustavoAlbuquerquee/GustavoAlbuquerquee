@@ -12,7 +12,7 @@ Seja bem-vindo ao meu perfil! Sou um **Desenvolvedor Front-end** apaixonado por 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="NextLetter" src="https://github.com/user-attachments/assets/8ce167ac-c6f9-4179-b5b3-371fb8b28545"/>](https://nextletter.com.br/)
+[<img align="left" height="115px" width="115px" alt="NextLetter" src="https://github.com/user-attachments/assets/8ce167ac-c6f9-4179-b5b3-371fb8b28545"/>](https://nextletter.com.br/)
 
 **Dev Junior 1** \
 [**NextLetter**](https://nextletter.com.br/) • \
@@ -20,7 +20,7 @@ Linguagens & Tecnologias: `React`, `TypeScript`, `Node.js`, `CSS`, `N8N` \
 Descrição: Desenvolvimento de interfaces modernas e responsivas focadas em experiência do usuário, além da criação e manutenção de automações de fluxo de trabalho utilizando N8N.
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" alt="Begrowth" src="https://github.com/user-attachments/assets/8e64b8d8-b279-4e93-b78c-6c6b6d283418"/>](https://begrowth.com.br/)
+[<img align="left"  height="115px" width="115px" alt="Begrowth" src="https://github.com/user-attachments/assets/8e64b8d8-b279-4e93-b78c-6c6b6d283418"/>](https://begrowth.com.br/)
 
 **Dev Front-end (Estagiário)** \
 [**Begrowth**](https://begrowth.com.br/) • \
