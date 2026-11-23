@@ -1,0 +1,17 @@
+/**
+ * Situação de uma atividade ou de um plano no sistema.
+ */
+public enum Status {
+    ATIVO("Ativo"),
+    INATIVO("Inativo");
+
+    private final String descricao;
+
+    Status(String descricao) {
+        this.descricao = descricao;
+    }
+
+    public String getDescricao() {
+        return descricao;
+    }
+}
